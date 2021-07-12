@@ -4,7 +4,7 @@ Manage Node versions within Emacs
 
 ## Installation
 
-### Using quelpa
+### Using [Quelpa](https://github.com/quelpa/quelpa-use-package)
 ```lisp
 (use-package nvm
   :quelpa ((nvm
